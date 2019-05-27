@@ -1,0 +1,1399 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Sun Temples",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/lower-egypt/abu-gorab-sun-temples",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/abu-gorab-sun-temples/sun-temple-of-niuserre-main.jpg",
+        "Paragraph": "The temple was excavated by Egyptologists between 1898 and 1901 by Ludwig Borchardt on behalf of the Berlin Museum and is located near the city of Memphis. It was built to honor the Sun god Ra."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.233332399999995,
+          29.916663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Masuda-no-iwafune",
+        "Country": "Japan",
+        "Site Links": "https://www.megalithicbuilders.com/asia/japan/asuka-masuda-no-iwafune",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/japan/asuka-masuda-no-iwafune/gallery/asuka-masuda-no-iwafune-01.jpg",
+        "Paragraph": "In various parts of the Asuka region are unusual carved granite stones the largest of which is Masuda no iwafune. This is a large stone structure approximately 11 meters in length, 8 meters in width, and 4.7 meters In height. The upper surface is flat, with a shallow trough and two square holes. This is located on top of a hill just a few hundred meters west of Okadera Station. How or why this colossal stone and others was carved remains a mystery. They appear to be a different style than later Buddhist sculptures. There are also several nearby kofuns or tombs including the Ishibutai Kofun which is built from massive boulders including one that weighs an estimated 75 tons. This may have been the tomb of Soga no Umako."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78868799999998,
+          34.470538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Baalbek Temple Complex",
+        "Country": "Lebanon",
+        "Site Links": "https://www.megalithicbuilders.com/asia/lebanon/baalbek-baalbek-temple-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/lebanon/baalbek-baalbek-temple-complex/baalbek-baalbek-temple-complex-main4.jpg",
+        "Paragraph": "Baalbek, properly Ba'albek and also known as Balbec, Baalbec or Baalbeck, is a city in the Anti-Lebanon foothills east of the Litani River in Lebanon's Beqaa Valley, about 85 km (53 mi) northeast of Beirut and about 75 km (47 mi) north of Damascus. The capital of Baalbek-Hermel Governorate, Baalbek has a population of approximately 82,608, mostly Shia Muslims, followed by Sunni Muslims and a minority of Christians. It is reckoned a stronghold of the Shi'a Hezbollah movement. It is home to the annual Baalbeck International Festival."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2039,
+          34.006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Ganghwa Dolmen Site",
+        "Country": "South Korea",
+        "Site Links": "https://www.megalithicbuilders.com/asia/south-korea/ganghwa-ganghwa-dolmen-site",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/south-korea/ganghwa-ganghwa-dolmen-site/gallery/ganghwa-ganghwa-dolmen-site-01.jpg",
+        "Paragraph": "These dolmen are located on Ganghwa Island, Ganghwa County, Incheon. They are located on the slopes of mountains and are thus higher in elevation than their counterparts. These dolmen are believed to be earliest ones made because the dolmen groups in Bugeun-ri and Gocheon-ri resemble the early dolmen. However, this has not been conclusively proved. A notable dolmen at Ganghwa is a northern/table-type dolmen where it was believed ancestral rites were performed. It is the biggest stone in South Korea with measures of 2.6 \u00c3\u2014 7.1 \u00c3\u2014 5.5 meters, but it has only two supporting stones. Combined the supporting stones and the capstone weigh between 150 and 225 tons."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.92416499999999,
+          34.9666648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Hwasun Dolmen Sites",
+        "Country": "South Korea",
+        "Site Links": "https://www.megalithicbuilders.com/asia/south-korea/hwasun-hwasun-dolmen-sites",
+        "Image Source": "http://tong.visitkorea.or.kr/enu/CU/rc/939158_1_11.jpg",
+        "Paragraph": "Found in Hwasun County, South Jeolla, 34.9775414\u00c2\u00b0N 126.931551\u00c2\u00b0E, these dolmens are also located on the slopes of hills and follow the Jiseokgang river. The Hyosan-ri group contains 158 dolmens and the Dasin-ri group, 129. These dolmens are less well preserved than the Jungnim-ri group. The quarry where some of the stones of this group were carved out has been located. This group is dated to around the sixth or fifth century BCE."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.92416499999999,
+          34.9666647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Gochang Dolmen Site",
+        "Country": "South Korea",
+        "Site Links": "https://www.megalithicbuilders.com/asia/south-korea/maesan-gochang-dolmen-site",
+        "Image Source": "http://www.antiquealive.com/upfile/1_2(257).jpg",
+        "Paragraph": "This group of dolmen are the largest and most varied. They are known as the Jungnim-ri dolmens and are centered in Maesan village, Gochang County, North Jeolla province."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.92416499999999,
+          34.9666647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Arwad Wall",
+        "Country": "Syria",
+        "Site Links": "https://www.megalithicbuilders.com/asia/syria/arwad-arwad-wall",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/syria/arwad-arwad-wall/arwad-arwad-wall-main1.jpg",
+        "Paragraph": "Arwad \u00e2\u20ac\u201c formerly known as Arados (Greek: \u00e1\u00bc\u0152\u00cf\u0081\u00ce\u00b1\u00ce\u00b4\u00ce\u00bf\u00cf\u201a), Arvad, Arpad, Arphad, and Antiochia in Pieria, also called Ruad Island \u00e2\u20ac\u201c located in the Mediterranean Sea, is the only inhabited island in Syria. The town of Arwad covers the entire island. It is located 3 kilometres (1.9 mi) from Tartus (ancient Tortosa), Syria's second largest port. Today, it is mainly a fishing town. Plans have been unveiled in May 2016 to renovate the island to become a tourist attraction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85499658,
+          34.85366325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Ha'amonga 'a Maui",
+        "Country": "Tonga",
+        "Site Links": "https://www.megalithicbuilders.com/asia/tonga/tongatapu-haamonga-a-maui",
+        "Image Source": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj1_KDtrKjiAhUKd98KHcBCAVwQjRx6BAgBEAU&url=http%3A%2F%2Ftripfreakz.com%2Foffthebeatenpath%2Fthe-mystery-of-haamonga-a-maui-trilithon-in-tonga&psig=AOvVaw19vRNCghOfVNFcIVdOtzHi&ust=1558381279419874",
+        "Paragraph": "Ha\u00ca\u00bbamonga \u00ca\u00bba Maui (Burden of Maui) is a stone trilithon located in Tonga, on the north of the island of Tongatapu, near the village of Niut\u00c5\u008dua, in Heket\u00c4\u0081. The trilithon is constructed from three coral limestone slabs, and is up to 5.2 metres (17 ft) high, 1.4 m wide, and 5.8 m long. The weight of the visible part of each upright stone is approximately 30\u00e2\u20ac\u201c40 tons. There are hewn deep mortises in the top of each upright stone to fit in the lintel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.0469706,
+          -21.13565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Hattusa Complex",
+        "Country": "Turkey",
+        "Site Links": "https://www.megalithicbuilders.com/asia/turkey/anatolia-hattusa-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/turkey/anatolia-hattusa-complex/anatolia-hattusa-complex-main1.jpg",
+        "Paragraph": "\u00e1\u00b8\u00aaattu\u00c5\u00a1a was the capital of the Hittite Empire in the late Bronze Age. Its ruins lie near modern Bo\u00c4\u0178azkale, Turkey, within the great loop of the K\u00c4\u00b1z\u00c4\u00b1l\u00c4\u00b1rmak River (Hittite: Marashantiya; Greek: Halys)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.615278,
+          40.019721999999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Carnac Stones",
+        "Country": "France",
+        "Site Links": "https://www.megalithicbuilders.com/europe/france/carnac-carnac-stones",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/france/carnac-carnac-stones/carnac-carnac-stones-main1.jpg",
+        "Paragraph": "The Carnac stones (Breton: Steudado\u00c3\u00b9 Karnag) are an exceptionally dense collection of megalithic sites around the village of Carnac in Brittany, consisting of alignments, dolmens, tumuli and single menhirs. More than 3,000 prehistoric standing stones were hewn from local rock and erected by the pre-Celtic people of Brittany, and form the largest such collection in the world. Most of the stones are within the Breton village of Carnac, but some to the east are within La Trinit\u00c3\u00a9-sur-Mer. The stones were erected at some stage during the Neolithic period, probably around 3300 BCE, but some may date to as early as 4500 BCE."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0608,
+          47.6119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Menhir de Champ-Dolent",
+        "Country": "France",
+        "Site Links": "https://www.megalithicbuilders.com/europe/france/dol-de-bretagne-menhir-de-champ-dolent",
+        "Image Source": "https://media-cdn.tripadvisor.com/media/photo-s/08/16/5f/d1/menhir-du-champ-dolent.jpg",
+        "Paragraph": "The Menhir de Champ-Dolent is a menhir, or upright standing stone, located in a field outside the town of Dol-de-Bretagne. It is the largest standing stone in Brittany and is over 9 meters high."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7393607,
+          48.535317299999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Menhir de Kerloas",
+        "Country": "France",
+        "Site Links": "https://www.megalithicbuilders.com/europe/france/kerloas-menhir-de-kerloas",
+        "Image Source": "https://media-cdn.tripadvisor.com/media/photo-s/06/de/8f/01/menhir-de-kerloas.jpg",
+        "Paragraph": "The menhir of Kerloas, also called menhir of Kerv\u00c3\u00a9atoux, is located in Plouarzel in the department of Finist\u00c3\u00a8re. It is considered the highest menhir currently standing 1, with its 9.50 m above the ground."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6794,
+          48.4265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Locmariaquer Megaliths",
+        "Country": "France",
+        "Site Links": "https://www.megalithicbuilders.com/europe/france/locmariaquer-locmariaquer-megaliths",
+        "Image Source": "https://media-cdn.tripadvisor.com/media/photo-s/0c/f2/24/7f/le-grand-menhir-brise.jpg",
+        "Paragraph": "The Locmariaquer megaliths are a complex of Neolithic constructions in Locmariaquer, Brittany. They comprise the elaborate Er-Grah tumulus passage grave, a dolmen known as the Table des Marchand and \"The Broken Menhir of Er Grah\", the largest known single block of stone to have been transported and erected by Neolithic people."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9564,
+          47.5727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Gollenstein",
+        "Country": "Germany",
+        "Site Links": "https://www.megalithicbuilders.com/europe/germany/blieskastel-gollenstein",
+        "Image Source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gollenstein.jpg/220px-Gollenstein.jpg",
+        "Paragraph": "The Gollenstein near Blieskastel in the Saarpfalz district of Saarland is an approximately 4,000-year-old menhir and, with its height of 6.58 meters, is considered the largest menhir in Central Europe. It stands on the Blieskasteler mountain northwest of the city center and is considered a landmark of the baroque town of Blieskastel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2495164999999995,
+          49.2446165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Brownshill Dolmen",
+        "Country": "Ireland",
+        "Site Links": "https://www.megalithicbuilders.com/europe/ireland/carlow-brownshill-dolmen",
+        "Image Source": "https://failtecdn.azureedge.net/tcs/media/93cf7f16-0c38-471e-8dd6-f67988297c51_49729.jpg",
+        "Paragraph": "The Brownshill Dolmen (Dolmain Chnoc an Bhr\u00c3\u00banaigh in Irish) is a megalithic portal tomb situated 3 km east of Carlow, in County Carlow, Ireland. It lies just off the R726 regional road and is clearly visible from the road. The capstone at Brownshill, weighing an estimated 100 metric tons, is reputed to be the heaviest in Europe. The tomb is listed as a National Monument."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8811186,
+          52.8375208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Kordin Temples",
+        "Country": "Malta",
+        "Site Links": "https://www.megalithicbuilders.com/europe/malta/corradino-kordin-temples",
+        "Image Source": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kordin_III_Temples.jpg/440px-Kordin_III_Temples.jpg",
+        "Paragraph": "The Kordin Temples are a group of megalithic temples on Corradino Heights in Paola, Malta. The temples were inhabited from pre-history, by Phoenicians and then by the Greeks and Roman periods. In the 17th century the site belonged to Giovanni Francesco Abela. He had excavated several sites in the whereabouts, and had his country residence in the area. He had originally planned to write his will to the Order, but eventually left his villa, that was used as Malta's first museum, known as Museo di San Giacomo, and the surrounding lands to the Jesuits. The land still belonged to the Jesuits, until their expulsion in the 18th century by the Order when all their land and property was taken by the treasury. The site was escavated during the Order of St. John on the order of Grand Master Manuel Pinto da Fonseca by archeologist Gio Antonio Barbaro. The temples were then extensively excavated by Sir Themistocles Zammit during the British period."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.511738000000001,
+          35.881401000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Ta' Hagrat Temple Complex",
+        "Country": "Malta",
+        "Site Links": "https://www.megalithicbuilders.com/europe/malta/mgarr-ta-hagrat-temple-complex",
+        "Image Source": "https://media-cdn.tripadvisor.com/media/photo-s/04/9e/fc/c7/ta-hagrat-temples-malta.jpg",
+        "Paragraph": "The Ta' \u00c4\u00a6a\u00c4\u00a1rat temples in M\u00c4\u00a1arr, Malta is recognized as a UNESCO World Heritage Site, along with several other Megalithic temples. They are amongst the most ancient religious sites on Earth. The larger Ta' \u00c4\u00a6a\u00c4\u00a1rat temple dates from the \u00c4\u00a0gantija phase (3600\u00e2\u20ac\u201c3200 BCE); the smaller is dated to the Saflieni phase (3300\u00e2\u20ac\u201c3000 BCE)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.36818186,
+          35.91887966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Hagar Qim Temple Complex",
+        "Country": "Malta",
+        "Site Links": "https://www.megalithicbuilders.com/europe/malta/qrendi-hagar-qim-temple-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/malta/qrendi-hagar-qim-temple-complex/qrendi-hagar-qim-temple-complex-main1.jpg",
+        "Paragraph": "\u00c4\u00a6a\u00c4\u00a1ar Qim (\"Standing/Worshipping Stones\") is a megalithic temple complex found on the Mediterranean island of Malta, dating from the \u00c4\u00a0gantija phase (3600-3200 BC). The Megalithic Temples of Malta are among the most ancient religious sites on Earth, described by the World Heritage Sites committee as \"unique architectural masterpieces.\" In 1992 UNESCO recognized \u00c4\u00a6a\u00c4\u00a1ar Qim and four other Maltese megalithic structures as World Heritage Sites. V. Gordon Childe, Professor of Prehistoric European Archeology and director of the Institute of Archaeology in the University of London from 1946-1957 visited \u00c4\u00a6a\u00c4\u00a1ar Qim. He wrote, \"I have been visiting the prehistoric ruins all round the Mediterranean, from Mesopotamia to Egypt, Greece and Switzerland, but I have nowhere seen a place as old as this one.\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43866491,
+          35.82333004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Mnajdra Temple Complex",
+        "Country": "Malta",
+        "Site Links": "https://www.megalithicbuilders.com/europe/malta/qrendi-mnajdra-temple-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/malta/qrendi-mnajdra-temple-complex/qrendi-mnajdra-temple-complex-main1.jpg",
+        "Paragraph": "Mnajdra (Maltese: L-Imnajdra) is a megalithic temple complex found on the southern coast of the Mediterranean island of Malta. Mnajdra is approximately 500 metres from the \u00c4\u00a6a\u00c4\u00a1ar Qim megalithic complex. Mnajdra was built around the fourth millennium BCE; the Megalithic Temples of Malta are among the most ancient religious sites on Earth, described by the World Heritage Sites committee as \"unique architectural masterpieces.\" In 1992 UNESCO recognized the Mnajdra complex and four other Maltese megalithic structures as UNESCO World Heritage Sites. In 2009 work was completed on a protective tent."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43516493,
+          35.82266338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Skorba Temple Complex",
+        "Country": "Malta",
+        "Site Links": "https://www.megalithicbuilders.com/europe/malta/zebbiegh-skorba-temple-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/malta/zebbiegh-skorba-temple-complex/zebbiegh-skorba-temple-complex-main1.jpg",
+        "Paragraph": "The Skorba temples are megalithic remains on the northern edge of \u00c5\u00bbebbieg\u00c4\u00a7, in Malta, which have provided detailed and informative insight into the earliest periods of Malta's neolithic culture. The site was only excavated in the early 1960s, rather late in comparison to other megalithic sites, some of which had been studied since the early 19th century. The site's importance has led to its listing as a UNESCO World Heritage Site, a listing it shares with six other megalithic temples in Malta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.37326184,
+          35.91913632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Hunebedden Dolmens",
+        "Country": "Netherlands",
+        "Site Links": "https://www.megalithicbuilders.com/europe/netherlands/drenthe-hunebedden-dolmens",
+        "Image Source": "http://www.hunebedden.nl/d15_avondstemming.jpg",
+        "Paragraph": "Drenthe is a province of the Netherlands, located in the northeast of the country. It is bordered by Overijssel to the south, Friesland to the west, Groningen to the north, and Germany (districts of Emsland and Bentheim) to the east. In January 2017, it had a population of 491,867 and a total area of 2,683 km2 (1,036 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291266,
+          52.132633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Bimini Road",
+        "Country": "Bahamas",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/bahamas/bimini-bimini-road",
+        "Image Source": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/05/bimini-road-diver.jpg",
+        "Paragraph": "The Bimini Road, sometimes called the Bimini Wall, is an underwater rock formation near North Bimini island in the Bahamas. The Road consists of a 0.8 km (0.50 mi)-long northeast-southwest linear feature composed of roughly rectangular to subrectangular limestone blocks. Various claims have been made for this feature being either a wall, road, pier, breakwater, or other man-made structure. However, credible evidence or arguments are lacking for such an origin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.107099,
+          26.962723999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Stone Spheres",
+        "Country": "Costa Rica",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/costa-rica/isla-del-cano-stone-spheres",
+        "Image Source": "https://www.megalithicbuilders.com/images/south-america/costa-rica/isla-del-cano-stone-spheres/isla-del-cano-stone-spheres-main1.jpg",
+        "Paragraph": "The stone spheres (or stone balls) of Costa Rica are an assortment of over three hundred petrospheres in Costa Rica, located on the Diqu\u00c3\u00ads Delta and on Isla del Ca\u00c3\u00b1o. Locally, they are known as Las Bolas (literally The Balls). The spheres are commonly attributed to the extinct Diqu\u00c3\u00ads culture and are sometimes referred to as the Diqu\u00c3\u00ads Spheres. They are the best-known stone sculptures of the Isthmo-Colombian area. They are thought to have been placed in lines along the approach to the houses of chiefs, but their exact significance remains uncertain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4775,
+          8.911389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Cuban Underwater City",
+        "Country": "Cuba",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/cuba/pinar-del-rio-cuban-underwater-city",
+        "Image Source": "https://www.ancient-origins.net/sites/default/files/field/image/sunken-city-cuba.jpg",
+        "Paragraph": "Cuban underwater city refers to a site thought by some to be a submerged granite structural complex off the coast of the Guanahacabibes Peninsula in the Pinar del R\u00c3\u00ado Province of Cuba."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.836736,
+          21.772547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "La Venta Complex",
+        "Country": "Mexico",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/mexico/la-venta-la-venta-complex",
+        "Image Source": "http://www.ancient-wisdom.com/Images/countries/American%20pics/laventa.gif",
+        "Paragraph": "La Venta is a pre-Columbian archaeological site of the Olmec civilization located in the present-day Mexican state of Tabasco. Some of the artifacts have been moved to the museum \"Parque - Museo de La Venta\", which is in nearby Villahermosa, the capital of Tabasco."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.50904154,
+          7.88788485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Tres Zapotes Complex",
+        "Country": "Mexico",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/mexico/tres-zapotes-tres-zapotes-complex",
+        "Image Source": "http://www.ancientpages.com/wp-content/uploads/2017/05/treszapotes2.jpg",
+        "Paragraph": "The 2000-year existence of Tres Zapotes as a cultural center is unusual, if not unique, in Mesoamerica."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.436389,
+          18.466667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "San Agustin Archaeological Park",
+        "Country": "Columbia",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/columbia/huila-san-agustin-archaeological-park",
+        "Image Source": "https://www.megalithicbuilders.com/images/south-america/columbia/huila-san-agustin-archaeological-park/huila-san-agustin-archaeological-park-main1.jpg",
+        "Paragraph": "The statues were first described by a Spanish monk, Fray Juan de Santa Gertrudis (1724\u00e2\u20ac\u201c1799), who visited the countries of Colombia (then part of the New Kingdom of Granada), Ecuador and Peru in 1756\u00e2\u20ac\u201c57 as a missionary. He passed through San Agust\u00c3\u00adn in mid-1756, and wrote about the statues in his four-volume work Maravillas de la naturaleza (English: Wonders of Nature)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.233333,
+          1.916667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Gate of the Gods",
+        "Country": "Peru",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/peru/aramu-muru-gate-of-the-gods",
+        "Image Source": "http://www.ancient-wisdom.com/Images/countries/American%20pics/aramu%20muru.jpg",
+        "Paragraph": "An abandoned stone place in Peru, near Lake Titicaca, known as a \u00e2\u20ac\u0153Gate of the Gods\u00e2\u20ac\u009d, portal and stargate. It remained after Incan civilization. The doorway itself looks like a big T letter, carved into the rock wall. An adult person could fit into the doorway. There are old legends that people traveled in space through the portal. Aramu Muru could be classified as a mystical artifact, though its paranormal features yet to be scientifically proven. The place is a popular tourist destination for paranormal pilgrimage."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5410622,
+          -16.1707193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Temple of Huaytar\u00c3\u00a1",
+        "Country": "Peru",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/peru/huaytara-temple-of-huaytara",
+        "Image Source": "https://lh3.googleusercontent.com/p/AF1QipP5epF9XeZrVVLXox9QSpfIPqmqElj7SryaOhIO=w216-h144-c",
+        "Paragraph": "The archaeological complex of Huaytar\u00c3\u00a1 is located in the district of Huaytar\u00c3\u00a1, within the province of the same name, in the department and region of Huancavelica."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3531892,
+          -13.604405700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Pyramid of Djedefre",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/lower-egypt/abu-roash-pyramid-of-djedefre",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/abu-roash-pyramid-of-djedefre/abu-roash-pyramid-of-djedefre-main.jpg",
+        "Paragraph": "Abu Rawash (also spelled Abu Roach, Abu Roash), 8 km to the North of Giza, is the site of Egypt's most northerly pyramid, also known as the lost pyramid \u2014 the mostly ruined Pyramid of Djedefre, the son and successor of Khufu. Originally, it was thought that this pyramid had never been completed, but the current archaeological consensus is that not only was it completed, but that it was built about the same size as the Pyramid of Menkaure \u2013 the third largest of the Giza pyramids. One notable fact about the pyramid at Abu Roash is that the upper most part of the pyramid has seemingly disappeared, revealing the internal passage that runs down into the bedrock. Explanations to why this pyramid is missing its top vary. The second point of interest that this pyramid provides is that it is built on top of a hillock. The builders faced the colossal task of not only hauling megalithic stones up a pyramid but also up a hillock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0749381241832,
+          30.032144300000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Necropolis",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/lower-egypt/abusir-necropolis",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/abusir-necropolis/abusir-necropolis-main1.jpg",
+        "Paragraph": "Abusir (\"the House or Temple of Osiris\") is the name given to an Egyptian archaeological locality \u2013 specifically, an extensive necropolis of the Old Kingdom period, together with later additions \u2013 in the vicinity of the modern capital Cairo. The name is also that of a neighbouring village in the Nile Valley, whence the site takes its name. Abusir is located several kilometres north of Saqqara and, like it, served as one of the main elite cemeteries for the ancient Egyptian capital city of Memphis. Several other villages in northern and southern Egypt are named Abusir or Busiri. Abusir is one relatively small segment of the extensive \"pyramid field\" that extends from north of Giza to below Saqqara."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9955829,
+          22.6651095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Bent Pyramid",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/lower-egypt/dashur-bent-pyramid",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/dashur-bent-pyramid/dashur-bent-pyramid-main1.jpg",
+        "Paragraph": "The Bent Pyramid is an ancient Egyptian pyramid located at the royal necropolis of Dahshur, approximately 40 kilometres south of Cairo, theorized to have been built under the Old Kingdom Pharaoh Sneferu (c. 2600 BC). Also theorized to be a unique example of early pyramid development in Egypt, and the second pyramid built by Sneferu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.20946815,
+          29.79023565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Pyramid Complex",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/lower-egypt/giza-plateau-pyramid-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/giza-plateau-pyramid-complex/giza-plateau-pyramid-complex-main1.jpg",
+        "Paragraph": "The Giza Pyramid Complex (\"Pyramids of Giza\") is an archaeological site on the Giza Plateau, on the outskirts of Cairo, Egypt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.132461799723895,
+          29.978485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Great Sphinx of Giza",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/lower-egypt/giza-plateau-great-sphinx-of-giza",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/giza-plateau-sphinx/giza-plateau-sphinx-main1.jpg",
+        "Paragraph": "The Great Sphinx of Giza, commonly referred to as the Sphinx of Giza or just the Sphinx, is a limestone statue of a reclining sphinx, a mythical creature with the body of a lion and the head of a human. Facing directly from West to East, it stands on the Giza Plateau on the west bank of the Nile in Giza, Egypt. The face of the Sphinx is generally believed to represent the Pharaoh Khafre."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.137382199999998,
+          29.9752458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Valley Temple",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/lower-egypt/giza-plateau-valley-temple",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/giza-plateau-valley-temple/gallery/giza-plateau-valley-temple-01.jpg",
+        "Paragraph": "The first complete exploration was conducted by John Perring in 1837. In 1853, Auguste Mariette partially excavated Khafre's Valley Temple, and, in 1858, while completing its clearance, he managed to discover a diorite statue."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.34278470000001,
+          31.098207000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Serapeum",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/lower-egypt/saqqara-serapeum",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/saqqara-serapeum/gallery/saqqara-serapeum-01.jpg",
+        "Paragraph": "The Serapeum of Saqqara is a serapeum located north west of the Pyramid of Djoser at Saqqara, a necropolis near Memphis in Lower Egypt. It was a burial place of Apis bulls, which were incarnations of the deity Ptah. It was believed that the bulls became immortal after death as Osiris Apis, a name shortened to Serapis in the Hellenic period."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2705202146758,
+          37.3983675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Unfinished Pyramid",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/lower-egypt/zawyet-el-aryan-unfinished-pyramid",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/zawyet-el-aryan-unfinished-pyramid/zawyet-el-aryan-unfinished-pyramid-main2.jpg",
+        "Paragraph": "Zawyet El Aryan is a town in the Giza Governorate, located between Giza and Abusir. To the west of the town, just in the desert area, is a necropolis, referred to by the same name. Almost directly east across the Nile is Memphis. In Zawyet El Aryan, there are two pyramid complexes and five mastaba cemeteries."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.151556,
+          29.9401222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Temple Complex",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/upper-egypt/abu-simbel-temple-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/abu-simbel-temple-complex/abu-simbel-temple-complex-main1.jpg",
+        "Paragraph": "Construction of the temple complex started in approximately 1264 BC and lasted for about 20 years, until 1244 BC. Known as the \"Temple of Ramesses, beloved by Amun\" it was one of six rock temples erected in Nubia during the long reign of Ramesses II. Their purpose was to impress Egypt's southern neighbours, and also to reinforce the status of Egyptian religion in the region."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.45924573486191,
+          15.3350061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Osirion",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/upper-egypt/abydos-osirion",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/abydos-osireion/gallery/osireion-abydos-01.jpg",
+        "Paragraph": "The Osirion or Osireon is an ancient Egyptian temple. It is located at Abydos, to the rear of the temple of Seti I. It is an integral part of Seti I's funeral complex and is built to resemble an 18th Dynasty Valley of the Kings tomb."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.918410187198898,
+          26.18413345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Elephantine Island",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/upper-egypt/aswan-elephantine-island",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/aswan-elephantine-island/aswan-elephantine-island-main.jpg",
+        "Paragraph": "Elephantine is an island on the Nile, forming part of the city of Aswan in southern Egypt. There are archaeological sites on the island."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8901695353423,
+          24.09114235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Unfinished Obelisk",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/upper-egypt/aswan-unfinished-obelisk",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/aswan-unfinished-obelisk/gallery/aswan-unfinished-obelisk-01.jpg",
+        "Paragraph": "The unfinished obelisk is the largest known ancient obelisk and is located in the northern region of the stone quarries of ancient Egypt in Aswan (Assuan), Egypt. It was ordered by Hatshepsut (1508\u20131458 BC), possibly to complement the Lateran Obelisk (which was originally at Karnak, and was later brought to the Lateran Palace in Rome). It is nearly one third larger than any ancient Egyptian obelisk ever erected. If finished it would have measured around 42 m (approximately 137 feet) and would have weighed nearly 1,090 metric tons (1,200 tons) which is the weight equal to about 200 African elephants."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8954118131195,
+          24.0769125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Temple Complex",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/upper-egypt/dendera-temple-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/denderra-temple-complex/denderra-temple-complex-main2.jpg",
+        "Paragraph": "Dendera Temple complex (Ancient Egyptian: Iunet or Tantere; the 19th-century English spelling in most sources, including Belzoni, was Tentyra) is located about 2.5 kilometres (1.6 mi) south-east of Dendera, Egypt. It is one of the best-preserved temple complexes in Egypt. The area was used as the sixth Nome of Upper Egypt, south of Abydos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.45924573486191,
+          15.3350061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Karnak Temple Complex",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/upper-egypt/thebes-karnak-temple-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/thebes-karnak-temple-complex/thebes-karnak-temple-complex-main5.jpg",
+        "Paragraph": "The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of decayed temples, chapels, pylons, and other buildings. Construction at the complex began during the reign of Senusret I in the Middle Kingdom and continued into the Ptolemaic period, although most of the extant buildings date from the New Kingdom. The area around Karnak was the ancient Egyptian Ipet-isut (\"The Most Selected of Places\") and the main place of worship of the eighteenth dynasty Theban Triad with the god Amun as its head. It is part of the monumental city of Thebes. The Karnak complex gives its name to the nearby, and partly surrounded, modern village of El-Karnak, 2.5 kilometres (1.6 miles) north of Luxor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.659365976678,
+          25.71951625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Luxor Temple",
+        "Country": "Egypt",
+        "Site Links": "https://www.megalithicbuilders.com/africa/egypt/upper-egypt/thebes-luxor-temple",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/egypt/thebes-luxor-temple/thebes-luxor-temple-main3.jpg",
+        "Paragraph": "Luxor Temple is a large Ancient Egyptian temple complex located on the east bank of the Nile River in the city today known as Luxor (ancient Thebes) and was constructed approximately 1400 BCE. In the Egyptian language it is known as ipet resyt, \"the southern sanctuary\". In Luxor there are several great temples on the east and west banks. Four of the major mortuary temples visited by early travelers and tourists include the Temple of Seti I at Gurnah, the Temple of Hatshepsut at Deir el Bahri, the Temple of Ramesses II (a.k.a. Ramesseum), and the Temple of Ramesses III at Medinet Habu; and the two primary cults temples on the east bank are known as the Karnak and Luxor. Unlike the other temples in Thebes, Luxor temple is not dedicated to a cult god or a deified version of the king in death. Instead Luxor temple is dedicated to the rejuvenation of kingship; it may have been where many of the kings of Egypt were crowned in reality or conceptually (as in the case of Alexander the Great who claimed he was crowned at Luxor but may never have traveled south of Memphis, near modern Cairo.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6398836272283,
+          25.70075835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Obelisks",
+        "Country": "Ethiopia",
+        "Site Links": "https://www.megalithicbuilders.com/africa/ethiopia/axum-obelisks",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/ethiopia/axum-obelisks/axum-obelisks-main1.jpg",
+        "Paragraph": "Axum or Aksum is a city in the northern part of Ethiopia. The town has a population of 56,500 residents (2010), and is governed as an urban w\u00e4r\u00e4da."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.851667,
+          52.964721999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Rock-Hewn Churches",
+        "Country": "Ethiopia",
+        "Site Links": "https://www.megalithicbuilders.com/africa/ethiopia/lalibela-rock-hewn-churches",
+        "Image Source": "https://www.megalithicbuilders.com/images/africa/ethiopia/lalibela-rock-hewn-churches/lalibela-rock-hewn-churches-main3.jpg",
+        "Paragraph": "Lalibela is a town in Amhara Region, northern Ethiopia famous for monolithic rock-cut churches. The whole of Lalibela offers an exceptional testimony to the medieval and post-medieval civilization of Ethiopia. Lalibela is one of Ethiopia's holiest cities, second only to Aksum, and a center of pilgrimage. Unlike Aksum, the population of Lalibela is almost completely Ethiopian Orthodox Christian. Ethiopia is one of the earliest nations to adopt Christianity in the first half of the fourth century, and its historical roots date to the time of the Apostles. The churches themselves date from the seventh to thirteenth centuries, and are traditionally dated to the reign of the Zagwe dynasty king Gebre Mesqel Lalibela (r. ca. 1181\u20131221 AD)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9878906,
+          43.694861200000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Kailasa Temple",
+        "Country": "India",
+        "Site Links": "https://www.megalithicbuilders.com/asia/india/ellora-kailasa-temple",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/india/ellora-kailasa-temple/ellora-kailasa-temple-main1.jpg",
+        "Paragraph": "The Kailash (IAST: Kail\u0101\u015ba) or Kailasanatha temple (Kail\u0101san\u0101tha) is one of the largest rock-cut ancient Hindu temples located in Ellora, Maharashtra, India. A megalith carved out of one single rock, it is considered one of the most remarkable cave temples in India because of its size, architecture and sculptural treatment."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.17934029290171,
+          20.023752899999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Warangal Fort",
+        "Country": "India",
+        "Site Links": "https://www.megalithicbuilders.com/asia/india/warangal-warangal-fort",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/india/warangal-warangal-fort/warangal-warangal-fort-main1.jpg",
+        "Paragraph": "Warangal Fort, in Warangal in the Indian state of Telangana, appears to have existed since at least the 12th century when it was the capital of the Kakatiya dynasty. The fort has four ornamental gates, known as Kakatiya Kala Thoranam, that originally formed the entrances to a now ruined great Shiva temple. The Kakatiyan arch has been adopted and officially incorporated into the Emblem of Telangana after the state bifurcation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.615425132203,
+          17.95649465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Gunung Padang",
+        "Country": "Indonesia",
+        "Site Links": "https://www.megalithicbuilders.com/asia/indonesia/west-java-gunung-padang",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/indonesia/west-java-gunung-padang/west-java-gunung-padang-main1.jpg",
+        "Paragraph": "Gunung Padang is a megalithic site located in Karyamukti village, Cianjur regency, West Java Province of Indonesia, 50 km southwest of the city of Cianjur or 6 kilometers from Lampegan station. It has been called the largest megalithic site in all of Southeastern Asia, and has produced carbon dating results which, if confirmed, suggest it is extraordinarily old. The survey believes that Gunung Padang was built in four different eras."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.416389,
+          -7.052778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Western Stone",
+        "Country": "Israel",
+        "Site Links": "https://www.megalithicbuilders.com/asia/israel/jerusalem-western-stone",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/israel/jerusalem-western-wall/gallery/jerusalem-western-wall01.jpg",
+        "Paragraph": "The 'Western Stone', is the biggest stone of the Western Wall in Jerusalem and can be found in the Kotel Tunnels. It is recorded as one of the heaviest objects ever lifted by humans without the assistance of any machinery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8901968,
+          -33.9217604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Ishibutai Kofun",
+        "Country": "Japan",
+        "Site Links": "https://www.megalithicbuilders.com/asia/japan/asuka-ishibutai-kofun",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/japan/asuka-ishibutai-kofun/gallery/asuka-ishibutai-kofun-01.jpg",
+        "Paragraph": "Ishibutai Kofun  is a stone kofun tumulus of the Asuka period in the east of Shimanosh\u014d, Asuka, Nara Prefecture, Japan. The kofun is believed to be the tomb of Soga no Umako. It occupies a space of 54 m (177 ft), and is the largest known megalithic structure in Japan. The kofun is also known as the Ishibutoya Kofun."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8260998,
+          34.466804100000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Yonaguni Monument",
+        "Country": "Japan",
+        "Site Links": "https://www.megalithicbuilders.com/asia/japan/yonaguni-yonaguni-monument",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/japan/yonaguni-yonaguni-monument/yonaguni-yonaguni-monument-main1.jpg",
+        "Paragraph": "The Yonaguni Monument, also known as \"Yonaguni (Island) Submarine Ruins\" Yonaguni(-jima) Kaitei Iseki), is a submerged rock formation off the coast of Yonaguni, the southernmost of the Ryukyu Islands, in Japan. It lies approximately a hundred kilometres east of Taiwan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.01100000000001,
+          24.432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Plain of Jars",
+        "Country": "Laos",
+        "Site Links": "https://www.megalithicbuilders.com/asia/laos/xiangkhouang-plain-of-jars",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/laos/xiangkhouang-plain-of-jars/xiangkhouang-plain-of-jars-main1.jpg",
+        "Paragraph": "The Plain of Jars is a megalithic archaeological landscape in Laos. It consists of thousands of stone jars scattered around the upland valleys and the lower foothills of the central plain of the Xiangkhoang Plateau. The jars are mostly arranged in clusters ranging in number from one to several hundred."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4329994,
+          19.4965125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Nan Madol",
+        "Country": "Micronesia",
+        "Site Links": "https://www.megalithicbuilders.com/asia/micronesia/pohnpei-nan-madol",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/micronesia/pohnpei-nan-madol/pohnpei-nan-madol-main1.jpg",
+        "Paragraph": "Nan Madol is an archaeological site adjacent to the eastern shore of the island of Pohnpei that was the capital of the Saudeleur Dynasty until about 1628. It is in the present day Madolenihmw district of Pohnpei state, in the Federated States of Micronesia in the western Pacific Ocean. The city, constructed in a lagoon, consists of a series of small artificial islands linked by a network of canals. The site core with its stone walls encloses an area approximately 1.5 km long by 0.5 km wide and it contains nearly 100 artificial islets\u2014stone and coral fill platforms\u2014bordered by tidal canals."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.332758966578,
+          6.843151600000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Gobekli Tepe",
+        "Country": "Turkey",
+        "Site Links": "https://www.megalithicbuilders.com/asia/turkey/anatolia-gobekli-tepe",
+        "Image Source": "https://www.megalithicbuilders.com/images/asia/turkey/anatolia-gobekli-tepe/anatolia-gobekli-tepe-main1.jpg",
+        "Paragraph": "G\u00f6bekli Tepe, Turkish for \"Potbelly Hill\", is an archaeological site in the Southeastern Anatolia Region of Turkey, approximately 12 km (7 mi) northeast of the city of \u015eanl\u0131urfa. The tell has a height of 15 m (49 ft) and is about 300 m (980 ft) in diameter. It is approximately 760 m (2,490 ft) above sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.855563354554896,
+          37.21870475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Stone Circles",
+        "Country": "England",
+        "Site Links": "https://www.megalithicbuilders.com/europe/england/avebury-stone-circles",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/england/avebury-stone-circles/avebury-stone-circles-main1.jpg",
+        "Paragraph": "Avebury is a Neolithic henge monument containing three stone circles, around the village of Avebury in Wiltshire, in southwest England. One of the best known prehistoric sites in Britain, it contains the largest megalithic stone circle in the world, and is both a tourist attraction and a place of religious importance to contemporary pagans."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0819715,
+          52.8578952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Stonehenge",
+        "Country": "England",
+        "Site Links": "https://www.megalithicbuilders.com/europe/england/wiltshire-stonehenge",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/england/wiltshire-stonehenge/wiltshire-stonehenge-main1.jpg",
+        "Paragraph": "Stonehenge is a prehistoric monument in Wiltshire, England, 2 miles (3 km) west of Amesbury and 8 miles (13 km) north of Salisbury. It consists of a ring of standing stones, with each standing stone around 13 ft (4.1 metres) high, 6 ft 11 in (2.1 metres) wide and weighing around 25 tons. The stones are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age monuments in England, including several hundred burial mounds."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.82618300046235,
+          51.1788293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Dolmen de Bagneux",
+        "Country": "France",
+        "Site Links": "https://www.megalithicbuilders.com/europe/france/saumur-dolmen-de-bagneux",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/france/saumur-dolmen-de-bagneux/saumur-dolmen-de-bagneux-main1.jpg",
+        "Paragraph": "The dolmen de Bagneux is a megalith located in Saumur, France. It is one of the largest dolmen in France and in Europe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0984044,
+          47.2454746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Acropolis of Athens",
+        "Country": "Greece",
+        "Site Links": "https://www.megalithicbuilders.com/europe/greece/athens-acropolis-of-athens",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/greece/athens-acropolis-of-athens/athens-acropolis-of-athens-main1.jpg",
+        "Paragraph": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon. The word acropolis is from the Greek words \u1f04\u03ba\u03c1\u03bf\u03bd (akron, \"highest point, extremity\") and \u03c0\u03cc\u03bb\u03b9\u03c2 (polis, \"city\"). Although the term acropolis is generic and there are many other acropoleis in Greece, the significance of the Acropolis of Athens is such that it is commonly known as \"The Acropolis\" without qualification. During ancient times it was known also more properly as Cecropia, after the legendary serpent-man, Cecrops, the first Athenian king."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.729786899999997,
+          37.968678999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Treasury of Atreus",
+        "Country": "Greece",
+        "Site Links": "https://www.megalithicbuilders.com/europe/greece/mycenae-treasury-of-atreus",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/greece/mycenae-treasury-of-atreus/mycenae-treasury-of-atreus-main2.jpg",
+        "Paragraph": "The Treasury of Atreus or Tomb of Agamemnon is a large \"tholos\" tomb on the Panagitsa Hill at Mycenae, Greece, constructed during the Bronze Age around 1250 BC. The lintel stone above the doorway weighs 120 tons, with approximate dimensions 8.3 x 5.2 x 1.2m, the largest in the world. The tomb was used for an unknown period. Mentioned by Pausanias, it was still visible in 1879 when the German archeologist Heinrich Schliemann discovered the shaft graves under the 'agora' in the Acropolis at Mycenae. The tomb has probably no relationship with either Atreus or Agamemnon, as archaeologists believe that the sovereign buried there ruled at an earlier date than the two; it was named thus by Heinrich Schliemann and the name has been used ever since."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7537408489198,
+          37.72683285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Newgrange",
+        "Country": "Ireland",
+        "Site Links": "https://www.megalithicbuilders.com/europe/ireland/meath-newgrange",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/ireland/meath-newgrange/meath-newgrange-main1.jpg",
+        "Paragraph": "Newgrange (Irish: S\u00ed an \u1e02r\u00fa or Br\u00fa na B\u00f3inne) is a prehistoric monument in County Meath, Ireland, located 8 kilometres (5.0 mi) west of Drogheda on the north side of the River Boyne. Some mainstream academics guess it was built during the Neolithic period, around 3200 BC, placing it prior to other mainstream academic guesses at the ages of Stonehenge and the Egyptian pyramids. The site consists of a large circular mound with an inner stone passageway and chambers. Human bones and possible grave goods or votive offerings were found in these chambers. The mound has a retaining wall at the front, made mostly of white quartz cobblestones, and is ringed by engraved kerbstones. Many of the larger stones of Newgrange are covered in megalithic art. The mound is also ringed by a stone circle. Some of the material that makes up the monument came from as far away as the Mournes and Wicklow Mountains."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.47555217222222,
+          53.69469735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Hal-Saflieni Hypogeum",
+        "Country": "Malta",
+        "Site Links": "https://www.megalithicbuilders.com/europe/malta/paola-hal-saflieni-hypogeum",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/malta/paola-hal-saflieni-hypogeum/paola-hal-saflieni-hypogeum-main1.jpg",
+        "Paragraph": "The Hypogeum of \u0126al-Saflieni is a Neolithic subterranean structure dating to the Saflieni phase (3300 \u2013 3000 BC) in Maltese prehistory, located in Paola, Malta. It is often simply referred to as the Hypogeum (Maltese: Ipo\u0121ew), literally meaning \"underground\" in Greek. The Hypogeum is thought to have been a sanctuary and necropolis, with the remains of more than 7,000 individuals documented by archeologists, and is among the best preserved examples of the Maltese temple building culture that also produced the Megalithic Temples and Xag\u0127ra Stone Circle."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.506891456264801,
+          35.86954945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Tarxien Temple Complex",
+        "Country": "Malta",
+        "Site Links": "https://www.megalithicbuilders.com/europe/malta/tarxien-tarxien-temple-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/malta/tarxien-tarxien-temple-complex/tarxien-tarxien-temple-complex-main1.jpg",
+        "Paragraph": "The Tarxien Temples are an archaeological complex in Tarxien, Malta. They date to approximately 3150 BC. The site was accepted as a UNESCO World Heritage Site in 1992 along with the other Megalithic temples on the island of Malta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7767181,
+          51.5678107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Dolmens",
+        "Country": "Russia",
+        "Site Links": "https://www.megalithicbuilders.com/europe/russia/caucasus-mountains-dolmens",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/russia/caucasus-mountains-dolmens/caucasus-mountains-dolmens-main1.jpg",
+        "Paragraph": "Concentrations of megaliths, dolmens and stone labyrinths dating between the end of the 4th millennium and the beginning of the 2nd millennium B.C. have been found (but little studied) throughout the Caucasus Mountains, including Georgia. Most of them are represented by rectangular structures made of stone slabs or cut in rocks with holes in their facade. These dolmens cover the Western Caucasus on both sides of the mountain ridge, in an area of approximately 12,000 square kilometres of Russia and Abkhazian region of Georgia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6051068,
+          53.851589399999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Callanish Stones",
+        "Country": "Scotland",
+        "Site Links": "https://www.megalithicbuilders.com/europe/scotland/callanish-callanish-stones",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/scotland/callanish-callanish-stones/callanish-callanish-stones-main1.jpg",
+        "Paragraph": "The Callanish Stones (or \"Callanish I\", Clachan Chalanais or Tursachan Chalanais in Scottish Gaelic) are an arrangement of standing stones placed in a cruciform pattern with a central stone circle. They were erected in the late Neolithic era, and were a focus for ritual activity during the Bronze Age. They are near the village of Callanish (Gaelic: Calanais) on the west coast of Lewis in the Outer Hebrides, Scotland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.745145,
+          58.1975414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Maeshowe",
+        "Country": "Scotland",
+        "Site Links": "https://www.megalithicbuilders.com/europe/scotland/orkney-maeshowe",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/scotland/orkney-maeshowe/orkney-maeshowe-main1.jpg",
+        "Paragraph": "Maeshowe (or Maes Howe; Norse: Orkhaugr) is a Neolithic chambered cairn and passage grave situated on Mainland Orkney, Scotland. It was probably built around 2800 BC. It gives its name to the Maeshowe type of chambered cairn, which is limited to Orkney. Maeshowe is a significant example of Neolithic craftsmanship and is, in the words of the archaeologist Stuart Piggott, \"a superlative monument that by its originality of execution is lifted out of its class into a unique position.\" The monuments around Maeshowe, including Skara Brae, were designated a UNESCO World Heritage Site in 1999."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1881726347960604,
+          58.99651285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Dolmens of Antequera",
+        "Country": "Spain",
+        "Site Links": "https://www.megalithicbuilders.com/europe/spain/antequera-dolmens-of-antequera",
+        "Image Source": "https://www.megalithicbuilders.com/images/europe/spain/antequera-dolmens-of-antequera/gallery/antequera-dolmens-of-antequera-01.jpg",
+        "Paragraph": "The Antequera Dolmens Site is a cultural heritage in series comprises by three cultural monuments  (Dolmen of Menga, Dolmen of Viera and Beehive tomb of El Romeral) and two natural monuments (Pe\u00f1a de los Enamorados and El Torcal) existing in the city of Antequera, in Andalusia, Spain. The cultural institution responsible for its protection is the Archaeological complex Dolmens of Antequera. It was declared a World Heritage Site in 2016."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54700556549212,
+          37.0243401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Tikal",
+        "Country": "Guatemala",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/guatemala/flores-tikal",
+        "Image Source": "https://www.megalithicbuilders.com/images/north-america/guatemala/flores-tikal/flores-tikal-main1.jpg",
+        "Paragraph": "Tikal (Tik\u2019al in modern Mayan orthography) is the ruin of an ancient city, which was likely to have been called Yax Mutal, found in a rainforest in Guatemala. Ambrosio Tut, a gum-sapper, reported the ruins to La Gaceta, a Guatemalan newspaper, which named the site Tikal. After the Berlin Academy of Sciences' magazine republished the report in 1853, archeologists and treasure hunters began visiting the forest. Today, tourism to the site may help protect the rainforest. It is one of the largest archaeological sites and urban centers of the pre-Columbian Maya civilization. It is located in the archaeological region of the Pet\u00e9n Basin in what is now northern Guatemala. Situated in the department of El Pet\u00e9n, the site is part of Guatemala's Tikal National Park and in 1979 it was declared a UNESCO World Heritage Site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6221790399242,
+          17.2209711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Copan",
+        "Country": "Honduras",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/honduras/copan-ruinas-copan",
+        "Image Source": "https://www.megalithicbuilders.com/images/north-america/honduras/copan-ruinas-copan/copan-ruinas-copan-main5.jpg",
+        "Paragraph": "Cop\u00e1n is an archaeological site of the Maya civilization located in the Cop\u00e1n Department of western Honduras, not far from the border with Guatemala. It was the capital city of a major Classic period kingdom from the 5th to 9th centuries AD. The city was located in the extreme southeast of the Mesoamerican cultural region, on the frontier with the Isthmo-Colombian cultural region, and was almost surrounded by non-Maya peoples."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.644533061711705,
+          -23.54659435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Palenque Complex",
+        "Country": "Mexico",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/mexico/palenque-palenque-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/north-america/mexico/palenque-palenque-complex/palenque-palenque-complex-main1.jpg",
+        "Paragraph": "Palenque, also anciently known as Lakamha (literally: \"Big Water\"), was a Maya city state in southern Mexico that flourished in the 7th century. The Palenque ruins date from ca. 226 BC to ca. AD 799. After its decline, it was absorbed into the jungle of cedar, mahogany, and sapodilla trees, but has since been excavated and restored and is now a famous archaeological site attracting thousands of visitors. It is located near the Usumacinta River in the Mexican state of Chiapas, about 130 km (81 mi) south of Ciudad del Carmen, 150 m (164 yd) above sea level. It averages a humid 26 \u00b0C (79 \u00b0F) with roughly 2160 mm (85 in) of rain a year."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9038237,
+          19.5357152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "San Lorenzo Tenochtitlan",
+        "Country": "Mexico",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/mexico/san-lorenzo-san-lorenzo-tenochtitlan",
+        "Image Source": "https://www.megalithicbuilders.com/images/north-america/mexico/san-lorenzo-san-lorenzo-tenochtitlan/san-lorenzo-san-lorenzo-tenochtitlan-main1.jpg",
+        "Paragraph": "San Lorenzo Tenochtitl\u00e1n (or San Lorenzo) is the collective name for three related archaeological sites\u2014San Lorenzo, Tenochtitl\u00e1n and Potrero Nuevo\u2014located in the southeast portion of the Mexican state of Veracruz. Along with La Venta and Tres Zapotes, it was one of the three major cities of the Olmec (it was the major center of Olmec culture from 1200 BC to 900 BC). San Lorenzo Tenochtitl\u00e1n is best known today for the colossal stone heads unearthed there, the greatest of which weigh 28 metric tons (28 long tons; 31 short tons) or more and are 3 metres (9.8 ft) high."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7598464,
+          17.7556728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Teotihuacan Complex",
+        "Country": "Mexico",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/mexico/teotihuacan-teotihuacan-complex",
+        "Image Source": "https://www.megalithicbuilders.com/images/north-america/mexico/teotihuacan-teotihuacan-complex/teotihuacan-teotihuacan-complex-main1.jpg",
+        "Paragraph": "Teotihuacan, also written Teotihuac\u00e1n (Spanish pronunciation: teotiwa'kan), is an ancient Mesoamerican city located in a sub-valley of the Valley of Mexico, located in the State of Mexico 40 kilometres (25 mi) northeast of modern-day Mexico City, known today as the site of many of the most architecturally significant Mesoamerican pyramids built in the pre-Columbian Americas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2115632,
+          18.910102300000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Chichen Itza",
+        "Country": "Mexico",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/mexico/tinum-chichen-itza",
+        "Image Source": "https://www.megalithicbuilders.com/images/north-america/mexico/tinum-chichen-itza/tinum-chichen-itza-main1.jpg",
+        "Paragraph": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archaeological site is located in Tin\u00fam Municipality, Yucat\u00e1n State, Mexico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5687196355205,
+          20.68285195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Coral Castle",
+        "Country": "United States",
+        "Site Links": "https://www.megalithicbuilders.com/north-america/united-states/florida-coral-castle",
+        "Image Source": "https://www.megalithicbuilders.com/images/north-america/united-states/florida-coral-castle/florida-coral-castle-main1.jpg",
+        "Paragraph": "Coral Castle is an oolite limestone structure created by the Latvian American eccentric Edward Leedskalnin (1887\u20131951). It is located in Leisure City, Florida, in Miami-Dade County at the intersection of South Dixie Highway (U.S. 1) and SW 157th Avenue. The structure comprises numerous megalithic stones, mostly limestone formed from coral, each weighing several tons. It is currently a privately operated tourist attraction. Coral Castle is noted for legends surrounding its creation that claim it was built single-handedly by Leedskalnin using reverse magnetism or supernatural abilities to move and carve numerous stones weighing many tons."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4550679,
+          52.1368979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Kalasasaya",
+        "Country": "Bolivia",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/bolivia/tiwanaku-kalasasaya",
+        "Image Source": "https://www.megalithicbuilders.com/images/south-america/bolivia/tiwanaku-kalasasaya/gallery/tiwanaku-kalassasaya-01.jpg",
+        "Paragraph": "The Kalasasaya (kala for stone; saya or sayasta for standing up) or Stopped Stones is a major archaeological structure that is part of Tiwanaku, an ancient archeological complex in the Andes of western Bolivia that is designated as a UNESCO World Heritage Site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6735067087303,
+          -16.554768099999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Pumapunku",
+        "Country": "Bolivia",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/bolivia/tiwanaku-pumapunku",
+        "Image Source": "https://www.megalithicbuilders.com/images/south-america/bolivia/tiwanaku-pumapunku/tiwanaku-pumapunku-main2.jpg",
+        "Paragraph": "Pumapunku or Puma Punku (Aymara and Quechua puma cougar, puma, punku door, Hispanicized Puma Puncu) is part of a large temple complex or monument group that is part of the Tiwanaku Site near Tiwanaku, in western Bolivia. It is believed to date to 536AD and later."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.679677262145,
+          -16.56166865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Moai",
+        "Country": "Chile",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/chile/easter-island-moai",
+        "Image Source": "https://www.megalithicbuilders.com/images/south-america/chile/easter-island-moai/easter-island-moai-main1.jpg",
+        "Paragraph": "Easter Island (Rapa Nui: Rapa Nui, Spanish: Isla de Pascua) is a Chilean island in the southeastern Pacific Ocean, at the southeasternmost point of the Polynesian Triangle in Oceania. Easter Island is famous for its 887 extant monumental statues, called moai, created by the early Rapa Nui people. In 1995, UNESCO named Easter Island a World Heritage Site, with much of the island protected within Rapa Nui National Park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.89072119999997,
+          -4.038868700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Coricancha",
+        "Country": "Peru",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/peru/cusco-coricancha",
+        "Image Source": "https://www.megalithicbuilders.com/images/south-america/peru/cusco-coricancha/gallery/cusco-coricancha-01.jpg",
+        "Paragraph": "Coricancha (Koricancha, Qoricancha or Qorikancha; from Quechua quri gold; kancha enclosure) was the most important temple in the Inca Empire. Originally named Intikancha or Intiwasi, it was dedicated to Inti, and is located at the old Inca capital of Cusco. Mostly destroyed after the 16th century war with the Spanish conquistadors much of its stonework forms the foundation of the Santo Domingo church and convent."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8072035,
+          -5.6982596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Hatun Rumiyoc",
+        "Country": "Peru",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/peru/cusco-hatun-rumiyoc",
+        "Image Source": "https://www.megalithicbuilders.com/images/south-america/peru/cusco-hatun-rumiyoc/gallery/cusco-hatun-rumiyoc-01.jpg",
+        "Paragraph": "Hatun Rumiyoc Street (of the Roca Mayor, in Castilian), located in Cuzco (Peru) is a street bordered by the wall of which was the palace in which the Inca Roc'a lived."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1522327,
+          -15.480635199999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Sacsayhuaman",
+        "Country": "Peru",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/peru/cusco-sacsayhuaman",
+        "Image Source": "https://www.megalithicbuilders.com/images/south-america/peru/cusco-sacsayhuaman/cusco-sacsayhuaman-main2.jpg",
+        "Paragraph": "Sacsayhuaman (Saksaywaman, Saqsaywaman, Sasawaman, Saksawaman, Sacsahuayman, Sasaywaman or Saksaq Waman; Quechua language, waman falcon or variable hawk, hispanicized spellings Sacsayhuam\u00e1n, Sacsayhuaman, Sacsahuaman, Saxahuaman and others) is a citadel on the northern outskirts of the city of Cusco, Peru, the historic capital of the Inca Empire. Sections were first built by the Killke culture about 1100; they had occupied the area since 900. The complex was expanded and added to by the Inca from the 13th century; they built dry stone walls constructed of huge stones. The workers carefully cut the boulders to fit them together tightly without mortar. The site is at an altitude of 3,701 m (12,142 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.980292520327,
+          -13.5067266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Temple Hill Fortress",
+        "Country": "Peru",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/peru/ollantaytambo-temple-hill-fortress",
+        "Image Source": "https://www.megalithicbuilders.com/images/south-america/peru/ollantaytambo-temple-hill-fortress/ollantaytambo-temple-hill-fortress-main2.jpg",
+        "Paragraph": "Ollantaytambo (Quechua: Ullantaytampu) is a town and an Inca archaeological site in southern Peru some 72 kilometres (45 mi) by road northwest of the city of Cusco. It is located at an altitude of 2,792 metres (9,160 ft) above sea level in the district of Ollantaytambo, province of Urubamba, Cusco region. During the Inca Empire, Ollantaytambo was the royal estate of Emperor Pachacuti who conquered the region, built the town and a ceremonial center. At the time of the Spanish conquest of Peru it served as a stronghold for Manco Inca Yupanqui, leader of the Inca resistance. Nowadays, located in what is called the Sacred Valley of the Incas, it is an important tourist attraction on account of its Inca ruins and its location en route to one of the most common starting points for the four-day, three-night hike known as the Inca Trail."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19526464963002,
+          22.28663915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sites": "Machu Picchu",
+        "Country": "Peru",
+        "Site Links": "https://www.megalithicbuilders.com/south-america/peru/urubamba-machu-picchu",
+        "Image Source": "https://www.megalithicbuilders.com/images/south-america/peru/urubamba-machu-picchu/urubamba-machu-picchu-main1.jpg",
+        "Paragraph": "Machu Picchu (Quechua: Machu Pikchu) is a 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level. It is located in the Cusco Region, Urubamba Province, Machupicchu District in Peru, above the Sacred Valley, which is 80 kilometres (50 mi) northwest of Cuzco and through which the Urubamba River flows."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54476397431841,
+          -13.16441865
+        ]
+      }
+    }
+  ]
+}
