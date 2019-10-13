@@ -23,8 +23,6 @@ This was an exercise in scraping data from a website and compiling into a map.
 Users can navigate the map and click markers that will display a popup with information.
 
 ## How to use?
-Run "data_scrape.py" and enter the "scrape" command. This will begin the process of scraping the data from the website and finding the coordinates. Two files will be created. One file will be named "Megalith Sites Completed.csv" which has no missing data and another file will be created called "Megalith Sites Null Data.csv" which has missing data that needs to be found via some other source. Once the data is found and added to the "Megalith Sites Null Data.csv" rename the file to "Megalith Sites Null Data Completed.csv" and run "data_scrape.py" once more but enter the "merge" command. This will merge both "Megalith Sites Completed.csv" and "Megalith Sites Null Data Completed.csv" into one file called "Megalith Sites.csv" which will now be a complete dataset. 
-
-Next, run "megalith_map.py" to create the interactive map.
+Open "Megalith Map.html" to view map.
 
 Note: All information scraped is from https://www.megalithicbuilders.com
